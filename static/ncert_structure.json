@@ -1,0 +1,763 @@
+{
+  "6": {
+    "Maths": [
+      "Chapter 1: Knowing Our Numbers",
+      "Chapter 2: Whole Numbers",
+      "Chapter 3: Playing With Numbers",
+      "Chapter 4: Basic Geometrical Ideas",
+      "Chapter 5: Understanding Elementary Shapes",
+      "Chapter 6: Integers",
+      "Chapter 7: Fractions",
+      "Chapter 8: Decimals",
+      "Chapter 9: Data Handling",
+      "Chapter 10: Mensuration",
+      "Chapter 11: Algebra",
+      "Chapter 12: Ratio and Proportion",
+      "Chapter 13: Symmetry",
+      "Chapter 14: Practical Geometry"
+    ],
+    "Science": [
+      "Chapter 1: Food: Where Does It Come From?",
+      "Chapter 2: Components of Food",
+      "Chapter 3: Fibre to Fabric",
+      "Chapter 4: Sorting Materials into Groups",
+      "Chapter 5: Separation of Substances",
+      "Chapter 6: Changes Around Us",
+      "Chapter 7: Getting to Know Plants",
+      "Chapter 8: Body Movements",
+      "Chapter 9: The Living Organisms \u2013 Characteristics and Habitats",
+      "Chapter 10: Motion and Measurement of Distances",
+      "Chapter 11: Light, Shadows and Reflections",
+      "Chapter 12: Electricity and Circuits",
+      "Chapter 13: Fun with Magnets",
+      "Chapter 14: Water",
+      "Chapter 15: Air Around Us",
+      "Chapter 16: Garbage In, Garbage Out"
+    ],
+    "English": [
+      "Honeysuckle - Chapter 1: Who Did Patrick\u2019s Homework?",
+      "Honeysuckle - Chapter 2: How the Dog Found his Master",
+      "Honeysuckle - Chapter 3: Taro\u2019s Reward",
+      "Honeysuckle - Chapter 4: An Indian \u2013 American Woman in Space: Kalpana Chawla",
+      "Honeysuckle - Chapter 5: A Different Kind of School",
+      "Honeysuckle - Chapter 6: Who I Am",
+      "Honeysuckle - Chapter 7: Fair Play"
+    ],
+    "Social Science": {
+      "History (Our Pasts - I)": [
+        "Chapter 1: What, Where, How and When?",
+        "Chapter 2: From Hunting-Gathering to Growing Food",
+        "Chapter 3: In the Earliest Cities",
+        "Chapter 4: What Books and Burials Tell Us",
+        "Chapter 5: Kingdoms, Kings and an Early Republic",
+        "Chapter 6: New Questions and Ideas",
+        "Chapter 7: Ashoka, The Emperor Who Gave Up War",
+        "Chapter 8: Vital Villages, Thriving Towns",
+        "Chapter 9: Traders, Kings and Pilgrims",
+        "Chapter 10: New Empires and Kingdoms",
+        "Chapter 11: Buildings, Paintings and Books"
+      ],
+      "Geography (The Earth Our Habitat)": [
+        "Chapter 1: The Earth in the Solar System",
+        "Chapter 2: Globe: Latitudes and Longitudes",
+        "Chapter 3: Motions of the Earth",
+        "Chapter 4: Maps",
+        "Chapter 5: Major Domains of the Earth",
+        "Chapter 6: Major Landforms of the Earth",
+        "Chapter 7: Our Country \u2013 India",
+        "Chapter 8: India: Climate, Vegetation and Wildlife"
+      ],
+      "Civics (Social and Political Life - I)": [
+        "Chapter 1: Understanding Diversity",
+        "Chapter 2: Diversity and Discrimination",
+        "Chapter 3: What is Government?",
+        "Chapter 4: Key Elements of a Democratic Government",
+        "Chapter 5: Panchayati Raj",
+        "Chapter 6: Rural Administration",
+        "Chapter 7: Urban Administration",
+        "Chapter 8: Rural Livelihoods",
+        "Chapter 9: Urban Livelihoods"
+      ]
+    }
+  },
+  "7": {
+    "Maths": [
+      "Chapter 1: Integers",
+      "Chapter 2: Fractions and Decimals",
+      "Chapter 3: Data Handling",
+      "Chapter 4: Simple Equations",
+      "Chapter 5: Lines and Angles",
+      "Chapter 6: The Triangle and Its Properties",
+      "Chapter 7: Congruence of Triangles",
+      "Chapter 8: Comparing Quantities",
+      "Chapter 9: Rational Numbers",
+      "Chapter 10: Practical Geometry",
+      "Chapter 11: Perimeter and Area",
+      "Chapter 12: Algebraic Expressions",
+      "Chapter 13: Exponents and Powers",
+      "Chapter 14: Symmetry",
+      "Chapter 15: Visualising Solid Shapes"
+    ],
+    "Science": [
+      "Chapter 1: Nutrition in Plants",
+      "Chapter 2: Nutrition in Animals",
+      "Chapter 3: Fibre to Fabric",
+      "Chapter 4: Heat",
+      "Chapter 5: Acids, Bases and Salts",
+      "Chapter 6: Physical and Chemical Changes",
+      "Chapter 7: Weather, Climate and Adaptations of Animals to Climate",
+      "Chapter 8: Winds, Storms and Cyclones",
+      "Chapter 9: Soil",
+      "Chapter 10: Respiration in Organisms",
+      "Chapter 11: Transportation in Animals and Plants",
+      "Chapter 12: Reproduction in Plants",
+      "Chapter 13: Motion and Time",
+      "Chapter 14: Electric Current and Its Effects",
+      "Chapter 15: Light",
+      "Chapter 16: Water: A Precious Resource",
+      "Chapter 17: Forests: Our Lifeline",
+      "Chapter 18: Wastewater Story"
+    ],
+    "English": [
+      "Honeycombe - Chapter 1: Three Questions",
+      "Honeycombe - Chapter 2: A Gift of Chappals",
+      "Honeycombe - Chapter 3: Gopal and the Hilsa Fish",
+      "Honeycombe - Chapter 4: The Ashes That Made Trees Bloom",
+      "Honeycombe - Chapter 5: Quality",
+      "Honeycombe - Chapter 6: Expert Detectives",
+      "Honeycombe - Chapter 7: The Invention of Vita-Wonk",
+      "Honeycombe - Chapter 8: Fire: Friend and Foe",
+      "Honeycombe - Chapter 9: A Bicycle in Good Repair",
+      "Honeycombe - Chapter 10: The Story of Cricket"
+    ],
+    "Social Science": {
+      "History (Our Pasts - II)": [
+        "Chapter 1: Tracing Changes Through a Thousand Years",
+        "Chapter 2: New Kings and Kingdoms",
+        "Chapter 3: The Delhi Sultans",
+        "Chapter 4: The Mughal Empire",
+        "Chapter 5: Rulers and Buildings",
+        "Chapter 6: Towns, Traders and Craftspersons",
+        "Chapter 7: Tribes, Nomads and Settled Communities",
+        "Chapter 8: Devotional Paths to the Divine",
+        "Chapter 9: The Making of Regional Cultures",
+        "Chapter 10: Eighteenth-Century Political Formations"
+      ],
+      "Geography (Our Environment)": [
+        "Chapter 1: Environment",
+        "Chapter 2: Inside Our Earth",
+        "Chapter 3: Our Changing Earth",
+        "Chapter 4: Air",
+        "Chapter 5: Water",
+        "Chapter 6: Natural Vegetation and Wildlife",
+        "Chapter 7: Human Environment \u2013 Settlement, Transport and Communication",
+        "Chapter 8: Human Environment Interactions \u2013 The Tropical and the Subtropical Region",
+        "Chapter 9: Life in the Temperate Grasslands",
+        "Chapter 10: Life in the Deserts"
+      ],
+      "Civics (Social and Political Life - II)": [
+        "Chapter 1: On Equality",
+        "Chapter 2: Role of the Government in Health",
+        "Chapter 3: How the State Government Works",
+        "Chapter 4: Growing up as Boys and Girls",
+        "Chapter 5: Women Change the World",
+        "Chapter 6: Understanding Media",
+        "Chapter 7: Understanding Advertising",
+        "Chapter 8: Markets Around Us",
+        "Chapter 9: A Shirt in the Market",
+        "Chapter 10: Struggles for Equality"
+      ]
+    }
+  },
+  "8": {
+    "Maths": [
+      "Chapter 1: Rational Numbers",
+      "Chapter 2: Linear Equations in One Variable",
+      "Chapter 3: Understanding Quadrilaterals",
+      "Chapter 4: Practical Geometry",
+      "Chapter 5: Data Handling",
+      "Chapter 6: Squares and Square Roots",
+      "Chapter 7: Cubes and Cube Roots",
+      "Chapter 8: Comparing Quantities",
+      "Chapter 9: Algebraic Expressions and Identities",
+      "Chapter 10: Visualising Solid Shapes",
+      "Chapter 11: Mensuration",
+      "Chapter 12: Exponents and Powers",
+      "Chapter 13: Direct and Inverse Proportions",
+      "Chapter 14: Factorisation",
+      "Chapter 15: Introduction to Graphs",
+      "Chapter 16: Playing with Numbers"
+    ],
+    "Science": [
+      "Chapter 1: Crop Production and Management",
+      "Chapter 2: Microorganisms: Friend and Foe",
+      "Chapter 3: Synthetic Fibres and Plastics",
+      "Chapter 4: Materials: Metals and Non-Metals",
+      "Chapter 5: Coal and Petroleum",
+      "Chapter 6: Combustion and Flame",
+      "Chapter 7: Conservation of Plants and Animals",
+      "Chapter 8: Cell \u2013 Structure and Functions",
+      "Chapter 9: Reproduction in Animals",
+      "Chapter 10: Reaching the Age of Adolescence",
+      "Chapter 11: Force and Pressure",
+      "Chapter 12: Friction",
+      "Chapter 13: Sound",
+      "Chapter 14: Chemical Effects of Electric Current",
+      "Chapter 15: Some Natural Phenomena",
+      "Chapter 16: Light",
+      "Chapter 17: Stars and the Solar System",
+      "Chapter 18: Pollution of Air and Water"
+    ],
+    "English": [
+      "Honeydew - Chapter 1: The Best Christmas Present in the World",
+      "Honeydew - Chapter 2: The Tsunami",
+      "Honeydew - Chapter 3: Glimpses of the Past",
+      "Honeydew - Chapter 4: Bepin Choudhury\u2019s Lapse of Memory",
+      "Honeydew - Chapter 5: The Summit Within",
+      "Honeydew - Chapter 6: This is Jody\u2019s Fawn",
+      "Honeydew - Chapter 7: A Visit to Cambridge",
+      "Honeydew - Chapter 8: A Short Monsoon Diary",
+      "Honeydew - Chapter 9: The Great Stone Face \u2013 I",
+      "Honeydew - Chapter 10: The Great Stone Face \u2013 II"
+    ],
+    "Social Science": {
+      "History (Our Pasts - III)": [
+        "Chapter 1: How, When and Where",
+        "Chapter 2: From Trade to Territory",
+        "Chapter 3: Ruling the Countryside",
+        "Chapter 4: Tribals, Dikus and the Vision of a Golden Age",
+        "Chapter 5: When People Rebel",
+        "Chapter 6: Colonialism and the City",
+        "Chapter 7: Weavers, Iron Smelters and Factory Owners",
+        "Chapter 8: Civilising the \u201cNative\u201d, Educating the Nation",
+        "Chapter 9: Women, Caste, and Reform",
+        "Chapter 10: The Changing World of Visual Arts"
+      ],
+      "Geography (Resources and Development)": [
+        "Chapter 1: Resources",
+        "Chapter 2: Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+        "Chapter 3: Agriculture",
+        "Chapter 4: Industries",
+        "Chapter 5: Human Resources"
+      ],
+      "Civics (Social and Political Life - III)": [
+        "Chapter 1: The Indian Constitution",
+        "Chapter 2: Understanding Secularism",
+        "Chapter 3: Why Do We Need a Parliament?",
+        "Chapter 4: Understanding Laws",
+        "Chapter 5: Judiciary",
+        "Chapter 6: Understanding Our Criminal Justice System",
+        "Chapter 7: Understanding Marginalisation",
+        "Chapter 8: Confronting Marginalisation",
+        "Chapter 9: Public Facilities",
+        "Chapter 10: Law and Social Justice"
+      ]
+    }
+  },
+  "9": {
+    "Maths": [
+      "Chapter 1: Number Systems",
+      "Chapter 2: Polynomials",
+      "Chapter 3: Coordinate Geometry",
+      "Chapter 4: Linear Equations in Two Variables",
+      "Chapter 5: Lines and Angles",
+      "Chapter 6: Triangles",
+      "Chapter 7: Quadrilaterals",
+      "Chapter 8: Circles",
+      "Chapter 9: Constructions",
+      "Chapter 10: Heron\u2019s Formula",
+      "Chapter 11: Surface Areas and Volumes",
+      "Chapter 12: Statistics",
+      "Chapter 13: Probability"
+    ],
+    "Science": {
+      "Physics": [
+        "Chapter 1: Motion",
+        "Chapter 2: Force and Laws of Motion",
+        "Chapter 3: Gravitation",
+        "Chapter 4: Work and Energy",
+        "Chapter 5: Sound"
+      ],
+      "Chemistry": [
+        "Chapter 1: Matter in Our Surroundings",
+        "Chapter 2: Is Matter Around Us Pure",
+        "Chapter 3: Atoms and Molecules",
+        "Chapter 4: Structure of the Atom"
+      ],
+      "Biology": [
+        "Chapter 1: The Fundamental Unit of Life",
+        "Chapter 2: Tissues",
+        "Chapter 3: Why Do We Fall Ill",
+        "Chapter 4: Natural Resources",
+        "Chapter 5: Improvement in Food Resources"
+      ]
+    },
+    "English": [
+      "Beehive - Chapter 1: The Fun They Had",
+      "Beehive - Chapter 2: The Sound of Music",
+      "Beehive - Chapter 3: The Little Girl",
+      "Beehive - Chapter 4: A Truly Beautiful Mind",
+      "Beehive - Chapter 5: The Snake and the Mirror",
+      "Beehive - Chapter 6: My Childhood",
+      "Beehive - Chapter 7: Packing",
+      "Beehive - Chapter 8: Reach for the Top",
+      "Beehive - Chapter 9: The Bond of Love",
+      "Beehive - Chapter 10: If I Were You",
+      "Moments - Chapter 1: The Lost Child",
+      "Moments - Chapter 2: The Adventures of Toto",
+      "Moments - Chapter 3: Iswaran the Storyteller",
+      "Moments - Chapter 4: In the Kingdom of Fools",
+      "Moments - Chapter 5: The Happy Prince",
+      "Moments - Chapter 6: Weathering the Storm in Ersama",
+      "Moments - Chapter 7: The Last Leaf",
+      "Moments - Chapter 8: A House is Not a Home",
+      "Moments - Chapter 9: The Beggar"
+    ],
+    "Social Science": {
+      "History (India and the Contemporary World - I)": [
+        "Chapter 1: The French Revolution",
+        "Chapter 2: Socialism in Europe and the Russian Revolution",
+        "Chapter 3: Nazism and the Rise of Hitler"
+      ],
+      "Geography (Contemporary India - I)": [
+        "Chapter 1: India \u2013 Size and Location",
+        "Chapter 2: Physical Features of India",
+        "Chapter 3: Drainage",
+        "Chapter 4: Climate",
+        "Chapter 5: Natural Vegetation and Wildlife",
+        "Chapter 6: Population"
+      ],
+      "Political Science (Democratic Politics - I)": [
+        "Chapter 1: What is Democracy? Why Democracy?",
+        "Chapter 2: Constitutional Design",
+        "Chapter 3: Electoral Politics",
+        "Chapter 4: Working of Institutions",
+        "Chapter 5: Democratic Rights"
+      ],
+      "Economics (Economics)": [
+        "Chapter 1: The Story of Village Palampur",
+        "Chapter 2: People as Resource",
+        "Chapter 3: Poverty as a Challenge",
+        "Chapter 4: Food Security in India"
+      ]
+    }
+  },
+  "10": {
+    "Maths": [
+      "Chapter 1: Real Numbers",
+      "Chapter 2: Polynomials",
+      "Chapter 3: Pair of Linear Equations in Two Variables",
+      "Chapter 4: Quadratic Equations",
+      "Chapter 5: Arithmetic Progressions",
+      "Chapter 6: Triangles",
+      "Chapter 7: Coordinate Geometry",
+      "Chapter 8: Introduction to Trigonometry",
+      "Chapter 9: Some Applications of Trigonometry",
+      "Chapter 10: Circles",
+      "Chapter 11: Areas Related to Circles",
+      "Chapter 12: Surface Areas and Volumes",
+      "Chapter 13: Statistics",
+      "Chapter 14: Probability"
+    ],
+    "Science": {
+      "Physics": [
+        "Chapter 1: Light Reflection and Refraction",
+        "Chapter 2: Human Eye and the Colourful World",
+        "Chapter 3: Electricity",
+        "Chapter 4: Magnetic Effects of Electric Current"
+      ],
+      "Chemistry": [
+        "Chapter 1: Chemical Reactions and Equations",
+        "Chapter 2: Acids, Bases and Salts",
+        "Chapter 3: Metals and Non-metals",
+        "Chapter 4: Carbon and Its Compounds"
+      ],
+      "Biology": [
+        "Chapter 1: Life Processes",
+        "Chapter 2: Control and Coordination",
+        "Chapter 3: How Do Organisms Reproduce?",
+        "Chapter 4: Heredity"
+      ]
+    },
+    "English": [
+      "First Flight - Chapter 1: A Letter to God",
+      "First Flight - Chapter 2: Nelson Mandela: Long Walk to Freedom",
+      "First Flight - Chapter 3: Two Stories about Flying",
+      "First Flight - Chapter 4: From the Diary of Anne Frank",
+      "First Flight - Chapter 5: Glimpses of India",
+      "First Flight - Chapter 6: Mijbil the Otter",
+      "First Flight - Chapter 7: Madam Rides the Bus",
+      "First Flight - Chapter 8: The Sermon at Benares",
+      "First Flight - Chapter 9: The Proposal",
+      "Footprints without Feet - Chapter 1: A Triumph of Surgery",
+      "Footprints without Feet - Chapter 2: The Thief\u2019s Story",
+      "Footprints without Feet - Chapter 3: The Midnight Visitor",
+      "Footprints without Feet - Chapter 4: A Question of Trust",
+      "Footprints without Feet - Chapter 5: Footprints Without Feet",
+      "Footprints without Feet - Chapter 6: The Making of a Scientist",
+      "Footprints without Feet - Chapter 7: The Necklace",
+      "Footprints without Feet - Chapter 8: The Hack Driver",
+      "Footprints without Feet - Chapter 9: Bholi"
+    ],
+    "Social Science": {
+      "History (India and the Contemporary World - II)": [
+        "Chapter 1: The Rise of Nationalism in Europe",
+        "Chapter 2: Nationalism in India"
+      ],
+      "Geography (Contemporary India - II)": [
+        "Chapter 1: Resources and Development",
+        "Chapter 2: Agriculture",
+        "Chapter 3: Minerals and Energy Resources",
+        "Chapter 4: Manufacturing Industries",
+        "Chapter 5: Lifelines of National Economy"
+      ],
+      "Political Science (Democratic Politics - II)": [
+        "Chapter 1: Power Sharing",
+        "Chapter 2: Federalism",
+        "Chapter 3: Gender, Religion and Caste",
+        "Chapter 4: Political Parties",
+        "Chapter 5: Outcomes of Democracy"
+      ],
+      "Economics (Understanding Economic Development)": [
+        "Chapter 1: Development",
+        "Chapter 2: Sectors of the Indian Economy",
+        "Chapter 3: Money and Credit",
+        "Chapter 4: Globalisation and the Indian Economy"
+      ]
+    }
+  },
+  "11": {
+    "Maths": [
+      "Chapter 1: Sets",
+      "Chapter 2: Relations and Functions",
+      "Chapter 3: Trigonometric Functions",
+      "Chapter 4: Complex Numbers and Quadratic Equations",
+      "Chapter 5: Linear Inequalities",
+      "Chapter 6: Permutations and Combinations",
+      "Chapter 7: Binomial Theorem",
+      "Chapter 8: Sequences and Series",
+      "Chapter 9: Straight Lines",
+      "Chapter 10: Conic Sections",
+      "Chapter 11: Introduction to Three Dimensional Geometry",
+      "Chapter 12: Limits and Derivatives",
+      "Chapter 13: Statistics",
+      "Chapter 14: Probability"
+    ],
+    "Physics": [
+      "Chapter 1: Units and Measurements",
+      "Chapter 2: Motion in a Straight Line",
+      "Chapter 3: Motion in a Plane",
+      "Chapter 4: Laws of Motion",
+      "Chapter 5: Work, Energy and Power",
+      "Chapter 6: System of Particles and Rotational Motion",
+      "Chapter 7: Gravitation",
+      "Chapter 8: Mechanical Properties of Solids",
+      "Chapter 9: Mechanical Properties of Fluids",
+      "Chapter 10: Thermal Properties of Matter",
+      "Chapter 11: Thermodynamics",
+      "Chapter 12: Kinetic Theory",
+      "Chapter 13: Oscillations",
+      "Chapter 14: Waves"
+    ],
+    "Chemistry": [
+      "Chapter 1: Some Basic Concepts of Chemistry",
+      "Chapter 2: Structure of Atom",
+      "Chapter 3: Classification of Elements and Periodicity in Properties",
+      "Chapter 4: Chemical Bonding and Molecular Structure",
+      "Chapter 5: Thermodynamics",
+      "Chapter 6: Equilibrium",
+      "Chapter 7: Redox Reactions",
+      "Chapter 8: The p-Block Elements (Groups 13 and 14)",
+      "Chapter 9: Organic Chemistry \u2013 Some Basic Principles and Techniques",
+      "Chapter 10: Hydrocarbons"
+    ],
+    "Biology": [
+      "Chapter 1: Biological Classification",
+      "Chapter 2: Plant Kingdom",
+      "Chapter 3: Animal Kingdom",
+      "Chapter 4: Morphology of Flowering Plants",
+      "Chapter 5: Anatomy of Flowering Plants",
+      "Chapter 6: Structural Organisation in Animals",
+      "Chapter 7: Cell: The Unit of Life",
+      "Chapter 8: Biomolecules",
+      "Chapter 9: Cell Cycle and Cell Division",
+      "Chapter 10: Photosynthesis in Higher Plants",
+      "Chapter 11: Respiration in Plants",
+      "Chapter 12: Plant Growth and Development",
+      "Chapter 13: Digestion and Absorption",
+      "Chapter 14: Breathing and Exchange of Gases",
+      "Chapter 15: Body Fluids and Circulation",
+      "Chapter 16: Excretory Products and Their Elimination",
+      "Chapter 17: Locomotion and Movement",
+      "Chapter 18: Neural Control and Coordination",
+      "Chapter 19: Chemical Coordination and Integration"
+    ],
+    "English": [
+      "Hornbill - Chapter 1: The Portrait of a Lady",
+      "Hornbill - Chapter 2: We\u2019re Not Afraid to Die... if We Can All Be Together",
+      "Hornbill - Chapter 3: Discovering Tut: The Saga Continues",
+      "Hornbill - Chapter 4: Landscape of the Soul",
+      "Hornbill - Chapter 5: The Ailing Planet: The Green Movement\u2019s Role",
+      "Hornbill - Chapter 6: The Browning Version",
+      "Hornbill - Chapter 7: Adventure",
+      "Hornbill - Chapter 8: Silk Road",
+      "Snapshots - Chapter 1: The Summer of the Beautiful White Horse",
+      "Snapshots - Chapter 2: The Address",
+      "Snapshots - Chapter 3: Ranga\u2019s Marriage",
+      "Snapshots - Chapter 4: Albert Einstein at School",
+      "Snapshots - Chapter 5: Mother\u2019s Day",
+      "Snapshots - Chapter 6: The Ghat of the Only World",
+      "Snapshots - Chapter 7: Birth",
+      "Snapshots - Chapter 8: The Tale of Melon City"
+    ],
+    "History": [
+      "Chapter 1: From the Beginning of Time",
+      "Chapter 2: Writing and City Life",
+      "Chapter 3: An Empire Across Three Continents",
+      "Chapter 4: The Central Islamic Lands",
+      "Chapter 5: Nomadic Empires",
+      "Chapter 6: The Three Orders",
+      "Chapter 7: Changing Cultural Traditions",
+      "Chapter 8: The Industrial Revolution",
+      "Chapter 9: Paths to Modernisation"
+    ],
+    "Political Science": {
+      "Indian Constitution at Work": [
+        "Chapter 1: Constitution: Why and How?",
+        "Chapter 2: Rights in the Indian Constitution",
+        "Chapter 3: Election and Representation",
+        "Chapter 4: Executive",
+        "Chapter 5: Legislature",
+        "Chapter 6: Judiciary",
+        "Chapter 7: Federalism",
+        "Chapter 8: Local Governments",
+        "Chapter 9: Political Theories",
+        "Chapter 10: The Philosophy of the Constitution"
+      ],
+      "Political Theory": [
+        "Chapter 1: Political Theory: An Introduction",
+        "Chapter 2: Freedom",
+        "Chapter 3: Equality",
+        "Chapter 4: Social Justice",
+        "Chapter 5: Rights",
+        "Chapter 6: Citizenship",
+        "Chapter 7: Nationalism",
+        "Chapter 8: Secularism",
+        "Chapter 9: Peace",
+        "Chapter 10: Development"
+      ]
+    },
+    "Economics": {
+      "Indian Economic Development": [
+        "Chapter 1: Indian Economy on the Eve of Independence",
+        "Chapter 2: Indian Economy (1950-1990)",
+        "Chapter 3: Liberalisation, Privatisation and Globalisation: An Appraisal",
+        "Chapter 4: Poverty",
+        "Chapter 5: Human Capital Formation",
+        "Chapter 6: Rural Development",
+        "Chapter 7: Employment",
+        "Chapter 8: Infrastructure",
+        "Chapter 9: Environment and Sustainable Development",
+        "Chapter 10: Comparative Development Experiences of India and its Neighbours"
+      ],
+      "Statistics for Economics": [
+        "Chapter 1: Introduction",
+        "Chapter 2: Collection of Data",
+        "Chapter 3: Organisation of Data",
+        "Chapter 4: Presentation of Data",
+        "Chapter 5: Measures of Central Tendency",
+        "Chapter 6: Measures of Dispersion",
+        "Chapter 7: Correlation",
+        "Chapter 8: Index Numbers"
+      ]
+    },
+    "Accountancy": [
+      "Part A - Chapter 1: Introduction to Accounting",
+      "Part A - Chapter 2: Theory Base of Accounting",
+      "Part A - Chapter 3: Recording of Transactions - I",
+      "Part A - Chapter 4: Recording of Transactions - II",
+      "Part A - Chapter 5: Bank Reconciliation Statement",
+      "Part A - Chapter 6: Trial Balance and Rectification of Errors",
+      "Part A - Chapter 7: Depreciation, Provisions and Reserves",
+      "Part A - Chapter 8: Accounting for Bills of Exchange",
+      "Part B - Chapter 9: Financial Statements - I",
+      "Part B - Chapter 10: Financial Statements - II",
+      "Part B - Chapter 11: Accounts from Incomplete Records",
+      "Part B - Chapter 12: Computers in Accounting"
+    ],
+    "Business Studies": [
+      "Part A - Chapter 1: Nature and Purpose of Business",
+      "Part A - Chapter 2: Forms of Business Organisations",
+      "Part A - Chapter 3: Public, Private and Global Enterprises",
+      "Part A - Chapter 4: Business Services",
+      "Part A - Chapter 5: Emerging Modes of Business",
+      "Part A - Chapter 6: Social Responsibilities of Business and Business Ethics",
+      "Part B - Chapter 7: Sources of Business Finance",
+      "Part B - Chapter 8: Small Business",
+      "Part B - Chapter 9: Internal Trade",
+      "Part B - Chapter 10: International Business"
+    ]
+  },
+  "12": {
+    "Maths": [
+      "Chapter 1: Relations and Functions",
+      "Chapter 2: Inverse Trigonometric Functions",
+      "Chapter 3: Matrices",
+      "Chapter 4: Determinants",
+      "Chapter 5: Continuity and Differentiability",
+      "Chapter 6: Applications of Derivatives",
+      "Chapter 7: Integrals",
+      "Chapter 8: Applications of Integrals",
+      "Chapter 9: Differential Equations",
+      "Chapter 10: Vector Algebra",
+      "Chapter 11: Three Dimensional Geometry",
+      "Chapter 12: Linear Programming",
+      "Chapter 13: Probability"
+    ],
+    "Physics": [
+      "Chapter 1: Electric Charges and Fields",
+      "Chapter 2: Electrostatic Potential and Capacitance",
+      "Chapter 3: Current Electricity",
+      "Chapter 4: Moving Charges and Magnetism",
+      "Chapter 5: Magnetism and Matter",
+      "Chapter 6: Electromagnetic Induction",
+      "Chapter 7: Alternating Current",
+      "Chapter 8: Electromagnetic Waves",
+      "Chapter 9: Ray Optics and Optical Instruments",
+      "Chapter 10: Wave Optics",
+      "Chapter 11: Dual Nature of Radiation and Matter",
+      "Chapter 12: Atoms",
+      "Chapter 13: Nuclei",
+      "Chapter 14: Semiconductor Electronics: Materials, Devices and Simple Circuits"
+    ],
+    "Chemistry": [
+      "Chapter 1: Solutions",
+      "Chapter 2: Electrochemistry",
+      "Chapter 3: Chemical Kinetics",
+      "Chapter 4: The d- and f-Block Elements",
+      "Chapter 5: Coordination Compounds",
+      "Chapter 6: Haloalkanes and Haloarenes",
+      "Chapter 7: Alcohols, Phenols and Ethers",
+      "Chapter 8: Aldehydes, Ketones and Carboxylic Acids",
+      "Chapter 9: Amines",
+      "Chapter 10: Biomolecules"
+    ],
+    "Biology": [
+      "Chapter 1: Sexual Reproduction in Flowering Plants",
+      "Chapter 2: Human Reproduction",
+      "Chapter 3: Reproductive Health",
+      "Chapter 4: Principles of Inheritance and Variation",
+      "Chapter 5: Molecular Basis of Inheritance",
+      "Chapter 6: Human Health and Disease",
+      "Chapter 7: Microbes in Human Welfare",
+      "Chapter 8: Biotechnology: Principles and Processes",
+      "Chapter 9: Biotechnology and Its Applications",
+      "Chapter 10: Organisms and Populations",
+      "Chapter 11: Ecosystem",
+      "Chapter 12: Biodiversity and Conservation"
+    ],
+    "English": [
+      "Flamingo - Chapter 1: The Last Lesson",
+      "Flamingo - Chapter 2: Lost Spring",
+      "Flamingo - Chapter 3: Deep Water",
+      "Flamingo - Chapter 4: The Rattrap",
+      "Flamingo - Chapter 5: Indigo",
+      "Flamingo - Chapter 6: Poets and Pancakes",
+      "Flamingo - Chapter 7: The Interview",
+      "Flamingo - Chapter 8: Going Places",
+      "Vistas - Chapter 1: The Third Level",
+      "Vistas - Chapter 2: The Tiger King",
+      "Vistas - Chapter 3: Journey to the End of the Earth",
+      "Vistas - Chapter 4: The Enemy",
+      "Vistas - Chapter 5: On the Face of It",
+      "Vistas - Chapter 6: Evans Tries an O-Level",
+      "Vistas - Chapter 7: Memories of Childhood"
+    ],
+    "History": {
+      "Themes in Indian History Part I": [
+        "Chapter 1: Bricks, Beads and Bones (The Harappan Civilisation)",
+        "Chapter 2: Kings, Farmers and Towns (Early States and Economies)",
+        "Chapter 3: Kinship, Caste and Class (Early Societies)",
+        "Chapter 4: Thinkers, Beliefs and Buildings (Cultural Developments)"
+      ],
+      "Themes in Indian History Part II": [
+        "Chapter 1: Through the Eyes of Travellers (Perceptions of Society)",
+        "Chapter 2: Bhakti-Sufi Traditions (Changes in Religious Beliefs and Devotional Texts)",
+        "Chapter 3: An Imperial Capital: Vijayanagara",
+        "Chapter 4: Peasants, Zamindars and the State (Agrarian Society and the Mughal Empire)"
+      ],
+      "Themes in Indian History Part III": [
+        "Chapter 1: Colonialism and the Countryside (Exploring Official Archives)",
+        "Chapter 2: Rebels and the Raj (The Revolt of 1857 and its Representations)",
+        "Chapter 3: Colonial Cities (Urbanisation, Planning and Architecture)",
+        "Chapter 4: Mahatma Gandhi and the Nationalist Movement (Civil Disobedience and Beyond)",
+        "Chapter 5: Framing the Constitution (The Beginning of a New Era)"
+      ]
+    },
+    "Political Science": {
+      "Contemporary World Politics": [
+        "Chapter 1: The End of Bipolarity",
+        "Chapter 2: New Centres of Power",
+        "Chapter 3: Contemporary South Asia",
+        "Chapter 4: United Nations and its Reforms",
+        "Chapter 5: Security in the Contemporary World",
+        "Chapter 6: Environment and Natural Resources",
+        "Chapter 7: Globalisation"
+      ],
+      "Politics in India Since Independence": [
+        "Chapter 1: Challenges of Nation Building",
+        "Chapter 2: Era of One-Party Dominance",
+        "Chapter 3: Politics of Planned Development",
+        "Chapter 4: India's External Relations",
+        "Chapter 5: Challenges to the Congress System",
+        "Chapter 6: The Crisis of Democratic Order",
+        "Chapter 7: Rise of Popular Movements",
+        "Chapter 8: Regional Aspirations",
+        "Chapter 9: Recent Developments in Indian Politics"
+      ]
+    },
+    "Economics": {
+      "Introductory Microeconomics": [
+        "Chapter 1: Introduction",
+        "Chapter 2: Consumer's Equilibrium and Demand",
+        "Chapter 3: Producer Behaviour and Supply",
+        "Chapter 4: Forms of Market and Price Determination",
+        "Chapter 5: Simple Applications of Tools of Demand and Supply"
+      ],
+      "Introductory Macroeconomics": [
+        "Chapter 1: Introduction",
+        "Chapter 2: National Income Accounting",
+        "Chapter 3: Money and Banking",
+        "Chapter 4: Government Budget and the Economy",
+        "Chapter 5: Balance of Payments",
+        "Chapter 6: Determination of Income and Employment"
+      ]
+    },
+    "Accountancy": [
+      "Part A - Chapter 1: Accounting for Partnership Firms - Fundamentals",
+      "Part A - Chapter 2: Reconstitution of a Partnership Firm - Admission of a Partner",
+      "Part A - Chapter 3: Reconstitution of a Partnership Firm - Retirement/Death of a Partner",
+      "Part A - Chapter 4: Dissolution of Partnership Firm",
+      "Part B - Chapter 5: Accounting for Share Capital",
+      "Part B - Chapter 6: Accounting for Debentures",
+      "Part C - Chapter 7: Financial Statements of a Company",
+      "Part C - Chapter 8: Analysis of Financial Statements",
+      "Part C - Chapter 9: Accounting Ratios",
+      "Part C - Chapter 10: Cash Flow Statement"
+    ],
+    "Business Studies": [
+      "Part A - Chapter 1: Nature and Significance of Management",
+      "Part A - Chapter 2: Principles of Management",
+      "Part A - Chapter 3: Business Environment",
+      "Part A - Chapter 4: Planning",
+      "Part A - Chapter 5: Organising",
+      "Part A - Chapter 6: Staffing",
+      "Part A - Chapter 7: Directing",
+      "Part A - Chapter 8: Controlling",
+      "Part B - Chapter 9: Financial Management",
+      "Part B - Chapter 10: Financial Markets",
+      "Part B - Chapter 11: Marketing Management",
+      "Part B - Chapter 12: Consumer Protection"
+    ]
+  }
+}
