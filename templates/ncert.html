@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NCERT Solutions</title>
+  <style>
+    /* ===== Base ===== */
+    body {
+      background-color: #111;
+      color: #f2f2f2;
+      font-family: "Poppins", sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* ===== Navbar / Back Button ===== */
+    .navbar {
+      background: #111;
+      padding: 18px 20px;
+      border-bottom: 1px solid #222;
+    }
+    .back-btn {
+      background: #222;
+      color: #eee;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 8px;
+      border: 1px solid #333;
+      font-weight: 500;
+      transition: background 0.25s, box-shadow 0.25s;
+    }
+    .back-btn:hover {
+      background: #007bff;
+      border-color: #007bff;
+      color: #fff;
+      box-shadow: 0 0 10px rgba(0, 123, 255, 0.4);
+    }
+
+    /* ===== Container ===== */
+    .ncert-container {
+      max-width: 1000px;
+      margin: 60px auto;
+      padding: 0 20px;
+      text-align: center;
+    }
+
+    /* ===== Grid Layout ===== */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+      justify-items: center;
+    }
+
+    /* ===== Cards ===== */
+    .card {
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 14px;
+      padding: 35px 20px;
+      width: 260px;  /* a bit wider */
+      text-align: center;
+      font-weight: 600;
+      font-size: 1.1rem;
+      color: #f5f5f5;
+      cursor: pointer;
+      transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+    }
+    .card:hover {
+      background: #222;
+      border-color: #4cc9f0;
+      transform: translateY(-5px);
+      box-shadow: 0 6px 16px rgba(76,201,240,0.15);
+    }
+
+    /* ===== Hidden Utility ===== */
+    .hidden {
+      display: none;
+    }
+
+    /* ===== Solution Section ===== */
+    .solution {
+      text-align: left;
+      background: #181818;
+      border-radius: 12px;
+      padding: 30px;
+      margin-top: 40px;
+      box-shadow: 0 0 10px rgba(255,255,255,0.05);
+      line-height: 1.7;
+    }
+    .solution h2 {
+      color: #4cc9f0;
+      border-bottom: 1px solid #2c2c2c;
+      padding-bottom: 8px;
+      margin-bottom: 20px;
+      font-size: 1.5rem;
+    }
+    .solution h3 {
+      color: #00b4d8;
+      margin-top: 1.5rem;
+      font-size: 1.25rem;
+    }
+    .qa {
+      background: #202020;
+      border-left: 4px solid #007bff;
+      border-radius: 8px;
+      padding: 18px 22px;
+      margin: 20px 0;
+    }
+    .qa .question {
+      color: #ffcc70;
+      font-weight: 600;
+      font-size: 1.07rem;
+      margin-bottom: 8px;
+    }
+    .qa .answer {
+      color: #a0e7e5;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+    .solution code, .qa code {
+      background: #222;
+      color: #4cc9f0;
+      padding: 2px 5px;
+      border-radius: 5px;
+      font-family: monospace;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar">
+    <a href="/" class="back-btn">← Back</a>
+  </nav>
+
+  <section class="ncert-container">
+    <h1>📚 Explore NCERT Solutions</h1>
+
+    <div id="class-section"><div id="class-list" class="grid"></div></div>
+    <div id="subject-section" class="hidden"><div id="subject-list" class="grid"></div></div>
+    <div id="subsubject-section" class="hidden"><div id="subsubject-list" class="grid"></div></div>
+    <div id="chapter-section" class="hidden"><div id="chapter-list" class="grid"></div></div>
+  </section>
+
+  <script>
+    const classSection = document.getElementById("class-section");
+    const subjectSection = document.getElementById("subject-section");
+    const subSubjectSection = document.getElementById("subsubject-section");
+    const chapterSection = document.getElementById("chapter-section");
+
+    const classList = document.getElementById("class-list");
+    const subjectList = document.getElementById("subject-list");
+    const subSubjectList = document.getElementById("subsubject-list");
+    const chapterList = document.getElementById("chapter-list");
+
+    let ncertData = {};
+    let selectedClass = null;
+    let selectedSubject = null;
+    let selectedSubSubject = null;
+
+    function hideAll() {
+      [classSection, subjectSection, subSubjectSection, chapterSection].forEach(sec =>
+        sec.classList.add("hidden")
+      );
+    }
+
+    fetch("/get_structure")
+      .then(res => res.json())
+      .then(data => {
+        ncertData = data;
+        showClasses();
+      })
+      .catch(() => {
+        classList.innerHTML = "<p>⚠️ Failed to load NCERT data.</p>";
+      });
+
+    function showClasses() {
+      hideAll();
+      classSection.classList.remove("hidden");
+      classList.innerHTML = "";
+      Object.keys(ncertData).forEach(cls => {
+        const div = document.createElement("div");
+        div.className = "card";
+        div.textContent = "Class " + cls;
+        div.onclick = () => showSubjects(cls);
+        classList.appendChild(div);
+      });
+    }
+
+    function showSubjects(cls) {
+      hideAll();
+      subjectSection.classList.remove("hidden");
+      selectedClass = cls;
+      subjectList.innerHTML = "";
+
+      Object.keys(ncertData[cls]).forEach(subject => {
+        const div = document.createElement("div");
+        div.className = "card";
+        div.textContent = subject;
+        div.onclick = () => {
+          const subSubjects = ncertData[cls][subject];
+          if (Array.isArray(subSubjects)) {
+            showChapters(subject, subSubjects);
+          } else {
+            showSubSubjects(subject, subSubjects);
+          }
+        };
+        subjectList.appendChild(div);
+      });
+    }
+
+    function showSubSubjects(subject, subSubjects) {
+      hideAll();
+      subSubjectSection.classList.remove("hidden");
+      selectedSubject = subject;
+      subSubjectList.innerHTML = "";
+
+      Object.keys(subSubjects).forEach(sub => {
+        const div = document.createElement("div");
+        div.className = "card";
+        div.textContent = sub;
+        div.onclick = () => showChapters(sub, subSubjects[sub]);
+        subSubjectList.appendChild(div);
+      });
+    }
+
+    function showChapters(subject, chapters) {
+      hideAll();
+      chapterSection.classList.remove("hidden");
+      selectedSubSubject = subject;
+      chapterList.innerHTML = "";
+
+      chapters.forEach(chapter => {
+        const div = document.createElement("div");
+        div.className = "card";
+        div.textContent = chapter;
+        div.onclick = () => loadSolution(chapter);
+        chapterList.appendChild(div);
+      });
+    }
+
+    async function loadSolution(chapter) {
+      try {
+        const subjectPath = selectedSubSubject
+          ? `${selectedSubject} - ${selectedSubSubject}`
+          : selectedSubject;
+
+        const res = await fetch("/get_solution", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            class: selectedClass,
+            subject: subjectPath,
+            chapter
+          })
+        });
+
+        const data = await res.json();
+        if (data.solution) {
+          chapterList.innerHTML = renderSolution(data.solution);
+          if (window.MathJax) MathJax.typesetPromise();
+        } else {
+          chapterList.innerHTML = `<p>⚠️ ${data.error || "No solution found."}</p>`;
+        }
+      } catch (err) {
+        chapterList.innerHTML = `<p>⚠️ Failed to fetch solution.</p>`;
+        console.error(err);
+      }
+    }
+
+    function renderSolution(sol) {
+      let html = `<div class="solution"><h2>${sol.chapter}</h2>`;
+      sol.exercises.forEach(ex => {
+        html += `<h3>${ex.exercise}</h3>`;
+        ex.questions.forEach(q => {
+          html += `
+            <div class="qa">
+              <p class="question"><b>Q${q.qno}:</b> ${q.question}</p>
+              <p class="answer"><b>Ans:</b> ${q.answer}</p>
+            </div>`;
+        });
+      });
+      html += `</div>`;
+      return html;
+    }
+  </script>
+
+  <script>
+    window.MathJax = {
+      tex: { inlineMath: [["$", "$"], ["\\(", "\\)"]] },
+      svg: { fontCache: "global" }
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
+
+</body>
+</html>
