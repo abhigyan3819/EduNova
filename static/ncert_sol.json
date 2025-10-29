@@ -1,0 +1,570 @@
+[
+  {
+    "class": "10",
+    "subject": "Science - Chemistry",
+    "chapter": "Chapter 1: Chemical Reactions and Equations",
+    "exercises": [
+      {
+        "exercise": "In-text Questions (Page 6)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Why should a magnesium ribbon be cleaned before burning in air?",
+            "answer": "Magnesium metal is very **reactive** and when stored, it reacts with atmospheric oxygen to form a thin, stable layer of **magnesium oxide** ($MgO$) on its surface. This oxide layer prevents the magnesium from reacting further. The ribbon is cleaned with sandpaper to remove this layer so that the reaction with oxygen (burning) can take place easily."
+          },
+          {
+            "qno": 2,
+            "question": "Write a balanced chemical equation for the following chemical reactions:\n(i) Hydrogen + Chlorine $\\rightarrow$ Hydrogen chloride\n(ii) Barium chloride + Aluminium sulphate $\\rightarrow$ Barium sulphate + Aluminium chloride\n(iii) Sodium + Water $\\rightarrow$ Sodium hydroxide + Hydrogen",
+            "answer": "(i) $H_2 (g) + Cl_2 (g) \\rightarrow 2HCl (g)$\n(ii) $3BaCl_2 (aq) + Al_2(SO_4)_3 (aq) \\rightarrow 3BaSO_4 (s) + 2AlCl_3 (aq)$\n(iii) $2Na (s) + 2H_2O (l) \\rightarrow 2NaOH (aq) + H_2 (g)$"
+          },
+          {
+            "qno": 3,
+            "question": "Write a balanced chemical equation with state symbols for the following reactions:\n(i) Solutions of barium chloride and sodium sulphate in water react to give insoluble barium sulphate and the solution of sodium chloride.\n(ii) Sodium hydroxide solution (in water) reacts with hydrochloric acid solution (in water) to produce sodium chloride solution and water.",
+            "answer": "(i) $BaCl_2 (aq) + Na_2SO_4 (aq) \\rightarrow BaSO_4 (s) + 2NaCl (aq)$\n(ii) $NaOH (aq) + HCl (aq) \\rightarrow NaCl (aq) + H_2O (l)$"
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 10)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "A solution of a substance ‘X’ is used for whitewashing.\n(i) Name the substance ‘X’ and write its formula.\n(ii) Write the reaction of the substance ‘X’ named in (i) above with water.",
+            "answer": "(i) Substance ‘X’ is **Calcium Oxide** (Quicklime). Formula: **$CaO$**.\n(ii) Reaction of CaO with water (Slaking of lime):\n$CaO (s) + H_2O (l) \\rightarrow Ca(OH)_2 (aq) + \\text{Heat}$"
+          },
+          {
+            "qno": 2,
+            "question": "Why is the amount of gas collected in one of the test tubes in Activity 1.7 double of the amount collected in the other? Name this gas.",
+            "answer": "Activity 1.7 is the **electrolysis of water** ($H_2O$). Water is composed of Hydrogen and Oxygen in a $2:1$ ratio by volume. The gas liberated at the cathode (Hydrogen, $H_2$) is **double** the volume of the gas liberated at the anode (Oxygen, $O_2$). The gas collected in double the amount is **Hydrogen** ($H_2$).\nReaction: $2H_2O (l) \\xrightarrow{\\text{Electric current}} 2H_2 (g) + O_2 (g)$"
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 13)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Why does the colour of copper sulphate solution change when an iron nail is dipped in it?",
+            "answer": "The colour changes due to a **Displacement reaction**. Iron ($Fe$), being **more reactive** than Copper ($Cu$), displaces copper from the blue copper sulphate ($CuSO_4$) solution to form **Iron (II) sulphate** ($FeSO_4$). The blue colour fades and changes to the light green colour of $FeSO_4$ solution.\nReaction: $Fe (s) + CuSO_4 (aq) \\rightarrow FeSO_4 (aq) + Cu (s)$"
+          },
+          {
+            "qno": 2,
+            "question": "Give an example of a double displacement reaction other than the one given in Activity 1.10.",
+            "answer": "The reaction between **Silver Nitrate** and **Sodium Chloride** is a double displacement (and precipitation) reaction, where ions are exchanged.\nReaction: $AgNO_3 (aq) + NaCl (aq) \\rightarrow AgCl (s) + NaNO_3 (aq)$"
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 15)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Identify the substances that are oxidised and the substances that are reduced in the following reactions:\n(i) $4Na (s) + O_2 (g) \\rightarrow 2Na_2O (s)$\n(ii) $CuO (s) + H_2 (g) \\rightarrow Cu (s) + H_2O (l)$",
+            "answer": "(i) **Oxidised:** $Na$ (gains oxygen). **Reduced:** $O_2$ (gains electrons).\n(ii) **Oxidised:** $H_2$ (gains oxygen to form $H_2O$). **Reduced:** $CuO$ (loses oxygen to form $Cu$)."
+          }
+        ]
+      },
+      {
+        "exercise": "Chapter End Questions (Page 15-16)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Which of the statements about the reaction below are incorrect?\n$2PbO (s) + C (s) \\rightarrow 2Pb (s) + CO_2 (g)$\n(a) Lead is getting reduced.\n(b) Carbon dioxide is getting oxidised.\n(c) Carbon is getting oxidised.\n(d) Lead oxide is getting reduced.",
+            "answer": "The incorrect statements are **(a) and (b)**. Thus, option **(i)** is correct (which refers to (a) and (b)).\n**Explanation:**\n- $PbO$ is reduced to $Pb$ (loses oxygen).\n- $C$ is oxidised to $CO_2$ (gains oxygen)."
+          },
+          {
+            "qno": 2,
+            "question": "$Fe_2O_3 + 2Al \\rightarrow Al_2O_3 + 2Fe$. The above reaction is an example of a:\n(a) Combination reaction.\t(b) Double displacement reaction.\t(c) Decomposition reaction.\t(d) Displacement reaction.",
+            "answer": "The correct answer is **(d) Displacement reaction**. Aluminium ($Al$) is displacing Iron ($Fe$) from its compound."
+          },
+          {
+            "qno": 3,
+            "question": "What happens when dilute hydrochloric acid is added to iron filings? Tick the correct answer.\n(a) Hydrogen gas and Iron chloride are produced.\n(b) Chlorine gas and Iron hydroxide are produced.\n(c) No reaction takes place.\n(d) Iron salt and water are produced.",
+            "answer": "The correct answer is **(a) Hydrogen gas and Iron chloride are produced**.\nReaction: $Fe (s) + 2HCl (aq) \\rightarrow FeCl_2 (aq) + H_2 (g)$"
+          },
+          {
+            "qno": 4,
+            "question": "What is a balanced chemical equation? Why should chemical equations be balanced?",
+            "answer": "A **balanced chemical equation** is an equation where the number of atoms of each element is equal on both the **reactant side** and the **product side**.\nIt must be balanced to satisfy the **Law of Conservation of Mass**, which states that **mass can neither be created nor destroyed** in a chemical reaction. Therefore, the total mass of the elements in the reactants must be equal to the total mass of the elements in the products."
+          },
+          {
+            "qno": 5,
+            "question": "Translate the following statements into chemical equations and then balance them:\n(a) Hydrogen gas combines with nitrogen to form ammonia.\n(b) Hydrogen sulphide gas burns in air to give water and sulphur dioxide.\n(c) Barium chloride reacts with aluminium sulphate to give aluminium chloride and a precipitate of barium sulphate.\n(d) Potassium metal reacts with water to give potassium hydroxide and hydrogen gas.",
+            "answer": "(a) $3H_2 (g) + N_2 (g) \\rightarrow 2NH_3 (g)$\n(b) $2H_2S (g) + 3O_2 (g) \\rightarrow 2H_2O (l) + 2SO_2 (g)$\n(c) $3BaCl_2 (aq) + Al_2(SO_4)_3 (aq) \\rightarrow 2AlCl_3 (aq) + 3BaSO_4 (s)$\n(d) $2K (s) + 2H_2O (l) \\rightarrow 2KOH (aq) + H_2 (g)$"
+          },
+          {
+            "qno": 6,
+            "question": "Balance the following chemical equations:\n(a) $HNO_3 + Ca(OH)_2 \\rightarrow Ca(NO_3)_2 + H_2O$\n(b) $NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + H_2O$\n(c) $NaCl + AgNO_3 \\rightarrow AgCl + NaNO_3$\n(d) $BaCl_2 + H_2SO_4 \\rightarrow BaSO_4 + HCl$",
+            "answer": "(a) $2HNO_3 + Ca(OH)_2 \\rightarrow Ca(NO_3)_2 + 2H_2O$\n(b) $2NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + 2H_2O$\n(c) $NaCl + AgNO_3 \\rightarrow AgCl + NaNO_3$ (Already balanced)\n(d) $BaCl_2 + H_2SO_4 \\rightarrow BaSO_4 + 2HCl$"
+          },
+          {
+            "qno": 7,
+            "question": "Write balanced chemical equations for the following reactions:\n(a) Calcium hydroxide + Carbon dioxide $\\rightarrow$ Calcium carbonate + Water\n(b) Zinc + Silver nitrate $\\rightarrow$ Zinc nitrate + Silver\n(c) Aluminium + Copper chloride $\\rightarrow$ Aluminium chloride + Copper\n(d) Barium chloride + Potassium sulphate $\\rightarrow$ Barium sulphate + Potassium chloride",
+            "answer": "(a) $Ca(OH)_2 (aq) + CO_2 (g) \\rightarrow CaCO_3 (s) + H_2O (l)$\n(b) $Zn (s) + 2AgNO_3 (aq) \\rightarrow Zn(NO_3)_2 (aq) + 2Ag (s)$\n(c) $2Al (s) + 3CuCl_2 (aq) \\rightarrow 2AlCl_3 (aq) + 3Cu (s)$\n(d) $BaCl_2 (aq) + K_2SO_4 (aq) \\rightarrow BaSO_4 (s) + 2KCl (aq)$"
+          },
+          {
+            "qno": 8,
+            "question": "Write balanced chemical equations for the following and identify the type of reaction in each case:\n(a) $KBr (aq) + BaI_2 (aq) \\rightarrow KI (aq) + BaBr_2 (s)$\n(b) $ZnCO_3 (s) \\xrightarrow{\\text{Heat}} ZnO (s) + CO_2 (g)$\n(c) $H_2 (g) + Cl_2 (g) \\rightarrow HCl (g)$\n(d) $Mg (s) + HCl (aq) \\rightarrow MgCl_2 (aq) + H_2 (g)$",
+            "answer": "(a) $2KBr (aq) + BaI_2 (aq) \\rightarrow 2KI (aq) + BaBr_2 (s)$. Type: **Double Displacement Reaction**\n(b) $ZnCO_3 (s) \\xrightarrow{\\text{Heat}} ZnO (s) + CO_2 (g)$. Type: **Decomposition Reaction**\n(c) $H_2 (g) + Cl_2 (g) \\rightarrow 2HCl (g)$. Type: **Combination Reaction**\n(d) $Mg (s) + 2HCl (aq) \\rightarrow MgCl_2 (aq) + H_2 (g)$. Type: **Displacement Reaction**"
+          },
+          {
+            "qno": 9,
+            "question": "What does one mean by exothermic and endothermic reactions? Give examples.",
+            "answer": "* **Exothermic Reaction:** A reaction that **releases heat energy** into the surroundings (e.g., burning of natural gas).\n  Example: $CH_4 (g) + 2O_2 (g) \\rightarrow CO_2 (g) + 2H_2O (l) + \\text{Heat}$\n* **Endothermic Reaction:** A reaction that **absorbs heat energy** from the surroundings (e.g., decomposition of calcium carbonate).\n  Example: $CaCO_3 (s) + \\text{Heat} \\rightarrow CaO (s) + CO_2 (g)$"
+          },
+          {
+            "qno": 10,
+            "question": "Why is respiration considered an exothermic reaction? Explain.",
+            "answer": "Respiration is an **exothermic reaction** because energy is **released** during the process. In our body cells, glucose (food) combines with oxygen to produce carbon dioxide and water, with a significant amount of **energy** being released (in the form of ATP).\nEquation (simplified): $C_6H_{12}O_6 (aq) + 6O_2 (g) \\rightarrow 6CO_2 (aq) + 6H_2O (l) + \\text{Energy}$"
+          },
+          {
+            "qno": 11,
+            "question": "What is the difference between displacement and double displacement reactions? Write equations for each.",
+            "answer": "* **Displacement:** A more reactive element **displaces** a less reactive element from its compound. Only one part (atom or ion) is exchanged.\n  Example: $Zn (s) + CuSO_4 (aq) \\rightarrow ZnSO_4 (aq) + Cu (s)$\n* **Double Displacement:** Two different atoms or groups of atoms (ions) are **exchanged** between two compounds to form two new compounds.\n  Example: $Na_2SO_4 (aq) + BaCl_2 (aq) \\rightarrow BaSO_4 (s) + 2NaCl (aq)$"
+          },
+          {
+            "qno": 12,
+            "question": "In the refining of silver, the recovery of silver from silver nitrate solution involved displacement by copper metal. Write down the reaction involved.",
+            "answer": "Copper ($Cu$), being more reactive than Silver ($Ag$), displaces it from silver nitrate solution.\nReaction: $Cu (s) + 2AgNO_3 (aq) \\rightarrow Cu(NO_3)_2 (aq) + 2Ag (s)$"
+          },
+          {
+            "qno": 13,
+            "question": "What do you mean by a precipitation reaction? Explain by giving an example.",
+            "answer": "A **precipitation reaction** is any reaction that produces an **insoluble solid**, called a **precipitate**, when two soluble reactants in an aqueous solution are mixed. It is typically a type of double displacement reaction.\nExample: When Barium Chloride solution is mixed with Sodium Sulphate solution, a white precipitate of Barium Sulphate is formed.\nReaction: $BaCl_2 (aq) + Na_2SO_4 (aq) \\rightarrow BaSO_4 (s) + 2NaCl (aq)$"
+          },
+          {
+            "qno": 14,
+            "question": "Explain the following in terms of gain or loss of oxygen with two examples each:\n(a) Oxidation\t(b) Reduction",
+            "answer": "(a) **Oxidation:** It is the **gain of oxygen** by a substance.\n  Example 1: $C + O_2 \\rightarrow CO_2$ (Carbon is oxidised)\n  Example 2: $2Cu + O_2 \\xrightarrow{\\text{Heat}} 2CuO$ (Copper is oxidised)\n(b) **Reduction:** It is the **loss of oxygen** by a substance.\n  Example 1: $\\mathbf{ZnO} + C \\rightarrow Zn + CO$ (Zinc oxide is reduced)\n  Example 2: $\\mathbf{CuO} + H_2 \\rightarrow Cu + H_2O$ (Copper oxide is reduced)"
+          },
+          {
+            "qno": 15,
+            "question": "A shiny brown coloured element ‘X’ on heating in air becomes black in colour. Name the element ‘X’ and the black coloured compound formed.",
+            "answer": "The shiny brown element ‘X’ is **Copper ($Cu$)**. The black coloured compound formed is **Copper (II) Oxide ($CuO$)**.\nReaction: $2Cu + O_2 \\xrightarrow{\\text{Heat}} 2CuO$"
+          },
+          {
+            "qno": 16,
+            "question": "Why do we apply paint on iron articles?",
+            "answer": "We apply paint on iron articles to prevent **corrosion (rusting)**. The paint layer cuts off the contact between the iron surface and the two essential conditions for rusting: **air (oxygen)** and **moisture**, thereby preventing the reaction from taking place."
+          },
+          {
+            "qno": 17,
+            "question": "Oil and fat containing food items are flushed with nitrogen. Why?",
+            "answer": "Oil and fat-containing food items are flushed with nitrogen to prevent **rancidity**. Rancidity is caused by the **oxidation** of fats and oils in the presence of oxygen, which changes the food’s taste and smell. Nitrogen is an **inert** gas and acts as an **antioxidant**, slowing down this oxidation process."
+          },
+          {
+            "qno": 18,
+            "question": "Explain the following terms with one example each.\n(a) Corrosion\t(b) Rancidity",
+            "answer": "(a) **Corrosion:** The process of **slow eating up** of metals by the action of air, moisture, or a chemical on their surface.\n  Example: **Rusting of Iron** (Iron reacts with oxygen and water to form hydrated iron (III) oxide).\n(b) **Rancidity:** The change in **smell and taste** of fatty and oily food materials when exposed to air (oxygen) for a long time due to their oxidation.\n  Example: The unpleasant smell and taste of **spoilt butter** or old chips."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": "10",
+    "subject": "Science - Chemistry",
+    "chapter": "Chapter 2: Acids, Bases and Salts",
+    "exercises": [
+      {
+        "exercise": "In-text Questions (Page 18)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "You have been provided with three test tubes. One of them contains distilled water and the other two contain an acidic solution and a basic solution, respectively. If you are given only red litmus paper, how will you identify the contents of each test tube?",
+            "answer": "1. **Identify the Base:** Dip the **red litmus paper** into each test tube. The solution that turns the paper **blue** is the **Basic Solution**.\n2. **Use Blue Litmus to Identify Acid and Water:** Now, use this newly formed **blue litmus paper**.\n  a. Dip the blue litmus paper into the remaining two test tubes.\n  b. The solution that turns the blue litmus **red** is the **Acidic Solution**.\n  c. The solution that shows **no change** in the blue litmus paper's colour is the **Distilled Water** (which is neutral)."
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 22)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Why should curd and sour substances not be kept in brass and copper vessels?",
+            "answer": "Curd and sour substances contain **acids** (like lactic acid). These acids react with the metal (brass or copper) to form toxic and harmful metal compounds, which can cause food poisoning and damage health. Therefore, they should not be stored in such vessels."
+          },
+          {
+            "qno": 2,
+            "question": "Which gas is usually liberated when an acid reacts with a metal? Illustrate with an example. How will you test for the presence of this gas?",
+            "answer": "The gas usually liberated is **Hydrogen gas** ($H_2$).\n**Example:** When Zinc metal reacts with dilute Sulphuric acid.\n$Zn (s) + H_2SO_4 (aq) \\rightarrow ZnSO_4 (aq) + H_2 (g)$\n**Test for Hydrogen gas:** Bring a **burning splinter or candle** near the gas. If the gas burns with a characteristic **'pop' sound**, it confirms the presence of Hydrogen gas."
+          },
+          {
+            "qno": 3,
+            "question": "Metal compound A reacts with dilute hydrochloric acid to produce effervescence. The gas evolved extinguishes a burning candle. Write a balanced chemical equation for the reaction if one of the compounds formed is calcium chloride.",
+            "answer": "The gas that extinguishes a burning candle is **Carbon dioxide** ($CO_2$), which is produced by the reaction of an acid with a metal carbonate or bicarbonate. The metal compound (A) must be **Calcium Carbonate** ($CaCO_3$) since Calcium Chloride is one of the products.\nReaction: $CaCO_3 (s) + 2HCl (aq) \\rightarrow CaCl_2 (aq) + H_2O (l) + CO_2 (g)$"
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 25)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Why do $HCl$, $HNO_3$, etc., show acidic characters in aqueous solutions while solutions of compounds like alcohol and glucose do not?",
+            "answer": "Acidic character is due to the production of **hydrogen ions** ($H^+$) in solution. $HCl$ and $HNO_3$ ionise in water to produce $H^+$ ions (which exist as hydronium ions, $H_3O^+$). Compounds like alcohol and glucose **do not ionise** in water and therefore do not produce $H^+$ ions, even though they contain Hydrogen atoms. Hence, they do not show acidic character."
+          },
+          {
+            "qno": 2,
+            "question": "Why does an aqueous solution of an acid conduct electricity?",
+            "answer": "An aqueous solution of an acid conducts electricity because acids **ionise** (dissociate) in water to form **free mobile ions** ($H^+$ or $H_3O^+$ and the corresponding anion, e.g., $Cl^-$). The movement of these charged particles (ions) carries the electric current through the solution."
+          },
+          {
+            "qno": 3,
+            "question": "Why does dry $HCl$ gas not change the colour of dry litmus paper?",
+            "answer": "Dry $HCl$ gas does not change the colour of dry litmus paper because it does not form **$H^+$ ions** in the absence of water (moisture). The dissociation of acid molecules into ions is only possible in an aqueous medium. The colour change is caused by the $H^+$ ions."
+          },
+          {
+            "qno": 4,
+            "question": "While diluting an acid, why is it recommended that the acid should be added to water and not water to the acid?",
+            "answer": "The process of dissolving an acid (especially concentrated acid) in water is a **highly exothermic reaction** (releases a large amount of heat). If water is added to a concentrated acid, the large amount of heat generated may convert the water added to **steam instantly**, which can cause the acid to **splash out** and cause severe burns. By adding acid slowly to water while stirring, the heat is absorbed by the large volume of water safely."
+          },
+          {
+            "qno": 5,
+            "question": "How is the concentration of hydronium ions ($H_3O^+$) affected when a solution of an acid is diluted?",
+            "answer": "When an acid solution is diluted (by adding more water), the concentration of hydronium ions ($H_3O^+$) per unit volume **decreases**. This is because the volume of the solution increases, but the total number of $H_3O^+$ ions remains the same."
+          },
+          {
+            "qno": 6,
+            "question": "How is the concentration of hydroxide ions ($OH^-$) affected when excess base is dissolved in a solution of sodium hydroxide?",
+            "answer": "When excess base is dissolved in a solution of sodium hydroxide ($NaOH$), the concentration of hydroxide ions ($OH^-$) per unit volume **increases**. This is because bases produce $OH^-$ ions in water, and adding more base (which is soluble) adds more $OH^-$ ions to the solution."
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 28)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "You have two solutions, 'A' and 'B'. The pH of solution 'A' is 6 and pH of solution 'B' is 8. Which solution has more hydrogen ion concentration? Which of this is acidic and which one is basic?",
+            "answer": "1. **Hydrogen ion concentration ($H^+$):** Solution **A (pH 6)** has a higher $H^+$ ion concentration. Lower pH means higher acidity and higher $H^+$ concentration.\n2. **Nature:**\n  * Solution A (pH 6) is **Acidic** (pH < 7).\n  * Solution B (pH 8) is **Basic** (pH > 7)."
+          },
+          {
+            "qno": 2,
+            "question": "What effect does the concentration of $H^+$ ions have on the nature of the solution?",
+            "answer": "The concentration of $H^+$ ions determines the **acidity** of the solution:\n* **Higher $H^+$ concentration** $\rightarrow$ More **Acidic** nature (Lower pH).\n* **Lower $H^+$ concentration** $\rightarrow$ More **Basic** (or less acidic) nature (Higher pH)."
+          },
+          {
+            "qno": 3,
+            "question": "Do basic solutions also have $H^+$ ions? If yes, then why are these basic?",
+            "answer": "Yes, **basic solutions also have $H^+$ ions**. Water itself dissociates to give both $H^+$ and $OH^-$ ions. However, they are basic because the concentration of **hydroxide ions ($OH^-$) is much greater** than the concentration of hydrogen ions ($H^+$) in the solution."
+          },
+          {
+            "qno": 4,
+            "question": "Under what soil condition do you think a farmer would treat the soil of his fields with quicklime (calcium oxide) or slaked lime (calcium hydroxide) or chalk (calcium carbonate)?",
+            "answer": "The farmer would use these basic substances when the soil is **too acidic**. Soil can become acidic due to acid rain or excessive use of acidic fertilisers. Treating the soil with basic compounds like quicklime ($CaO$), slaked lime ($Ca(OH)_2$), or chalk ($CaCO_3$) **neutralises** the excess acid, bringing the soil pH back to an optimal range for crop growth."
+          }
+        ]
+      },
+      {
+        "exercise": "Chapter End Questions (Page 33-34)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "A solution turns red litmus blue, its pH is likely to be:\n(a) 1\t(b) 4\t(c) 5\t(d) 10",
+            "answer": "The correct answer is **(d) 10**. A solution that turns red litmus blue is **basic**, which means its pH must be greater than 7."
+          },
+          {
+            "qno": 2,
+            "question": "A solution reacts with crushed egg-shells to give a gas that turns lime-water milky. The solution contains:\n(a) $NaCl$\t(b) $HCl$\t(c) $LiCl$\t(d) $KCl$",
+            "answer": "The correct answer is **(b) $HCl$**. Egg-shells are mainly **calcium carbonate** ($CaCO_3$). Only an **acid** ($HCl$) will react with $CaCO_3$ to release $\\mathbf{CO_2}$ gas, which turns lime-water milky. $CaCO_3 (s) + 2HCl (aq) \\rightarrow CaCl_2 (aq) + H_2O (l) + CO_2 (g)$"
+          },
+          {
+            "qno": 3,
+            "question": "10 mL of a solution of $NaOH$ is found to be completely neutralised by 8 mL of a solution of $HCl$. If we take 20 mL of the same solution of $NaOH$, the amount of $HCl$ solution required to neutralise it will be:\n(a) 4 mL\t(b) 8 mL\t(c) 12 mL\t(d) 16 mL",
+            "answer": "The correct answer is **(d) 16 mL**. The ratio of $NaOH$ solution to $HCl$ solution required for neutralisation is $10 \\text{ mL}: 8 \\text{ mL}$ or $5:4$. Since the concentration is the same, if the volume of $NaOH$ is doubled from 10 mL to 20 mL, the required volume of $HCl$ must also be doubled from 8 mL to **16 mL**."
+          },
+          {
+            "qno": 4,
+            "question": "Which one of the following types of medicines is used for treating indigestion?\n(a) Antibiotic\t(b) Analgesic\t(c) Antacid\t(d) Antiseptic",
+            "answer": "The correct answer is **(c) Antacid**. Indigestion is caused by an excess of stomach acid. An antacid is a **mild base** used to neutralise this excess acid."
+          },
+          {
+            "qno": 5,
+            "question": "Write word equations and then balanced equations for the reaction taking place when:\n(a) dilute sulphuric acid reacts with zinc granules.\n(b) dilute hydrochloric acid reacts with magnesium ribbon.\n(c) dilute sulphuric acid reacts with aluminium powder.\n(d) dilute hydrochloric acid reacts with iron filings.",
+            "answer": "(a) Word: Zinc + Sulphuric Acid $\\rightarrow$ Zinc Sulphate + Hydrogen\n  Equation: $Zn (s) + H_2SO_4 (aq) \\rightarrow ZnSO_4 (aq) + H_2 (g)$\n(b) Word: Magnesium + Hydrochloric Acid $\\rightarrow$ Magnesium Chloride + Hydrogen\n  Equation: $Mg (s) + 2HCl (aq) \\rightarrow MgCl_2 (aq) + H_2 (g)$\n(c) Word: Aluminium + Sulphuric Acid $\\rightarrow$ Aluminium Sulphate + Hydrogen\n  Equation: $2Al (s) + 3H_2SO_4 (aq) \\rightarrow Al_2(SO_4)_3 (aq) + 3H_2 (g)$\n(d) Word: Iron + Hydrochloric Acid $\\rightarrow$ Iron (II) Chloride + Hydrogen\n  Equation: $Fe (s) + 2HCl (aq) \\rightarrow FeCl_2 (aq) + H_2 (g)$"
+          },
+          {
+            "qno": 6,
+            "question": "Compounds such as alcohol and glucose also contain hydrogen but are not classified as acids. Describe an activity to prove it.",
+            "answer": "**Activity:** Set up a circuit with a bulb, a switch, a battery, and two nails (electrodes) fixed on a rubber stopper placed in a beaker. Pour dilute $HCl$ solution into the beaker and switch on the current; the **bulb will glow** (indicating the presence of $H^+$ ions to conduct electricity). Now, clean the apparatus and repeat the experiment using an alcohol or glucose solution. The **bulb will not glow** in this case. This proves that while alcohol and glucose contain Hydrogen, they do not ionise to produce $H^+$ ions in water, hence they are not classified as acids."
+          },
+          {
+            "qno": 7,
+            "question": "Why does distilled water not conduct electricity, while rain water does?",
+            "answer": "**Distilled water** is a pure form of water and contains almost no **ionic compounds** (like salts or acids) dissolved in it. Therefore, it has very few free ions and cannot conduct electricity.\n**Rain water**, on the other hand, is not pure. It dissolves small amounts of **acidic gases** like $CO_2$, $SO_2$, etc., from the atmosphere to form $\\mathbf{H^+ \\text{ ions}}$ and corresponding anions. The presence of these ions makes rain water a conductor of electricity."
+          },
+          {
+            "qno": 8,
+            "question": "What happens when acid is dissolved in water? State the reaction.",
+            "answer": "When an acid is dissolved in water, it **ionises** (dissociates) to produce **hydronium ions** ($H_3O^+$). This process is highly **exothermic**.\n**Reaction:** Acid + Water $\\rightarrow$ Hydronium ion + Anion\n$HCl (aq) + H_2O (l) \\rightarrow H_3O^+ (aq) + Cl^- (aq)$ (or simply $HCl (aq) \\rightarrow H^+ (aq) + Cl^- (aq)$)"
+          },
+          {
+            "qno": 9,
+            "question": "How is the concentration of hydroxide ions ($OH^-$) affected when excess of base is dissolved in a solution of sodium hydroxide?",
+            "answer": "When excess base is dissolved in a solution of sodium hydroxide, the concentration of hydroxide ions ($OH^-$) per unit volume **increases**. This is because $NaOH$ is a soluble base (alkali) that dissociates to form $Na^+$ and $OH^-$ ions in the solution."
+          },
+          {
+            "qno": 10,
+            "question": "Three solutions A, B and C have pH values of 3, 7 and 9 respectively. Which solution is (i) acidic (ii) basic (iii) neutral? Arrange the solutions in increasing order of $H^+$ ion concentration.",
+            "answer": "(i) **Acidic:** Solution **A** (pH 3)\n(ii) **Basic:** Solution **C** (pH 9)\n(iii) **Neutral:** Solution **B** (pH 7)\n**Increasing order of $H^+$ ion concentration:** **C < B < A**. (Lower pH means higher $H^+$ concentration: C (pH 9, lowest $H^+$) $\rightarrow$ B (pH 7) $\rightarrow$ A (pH 3, highest $H^+$))"
+          },
+          {
+            "qno": 11,
+            "question": "What are the common name and chemical formula of the following compounds:\n(a) Sodium Hydroxide\t(b) Sodium Carbonate\t(c) Calcium Oxychloride\t(d) Calcium Sulphate Hemihydrate",
+            "answer": "(a) **Sodium Hydroxide:** Common Name: **Caustic Soda**; Formula: **$NaOH$**\n(b) **Sodium Carbonate:** Common Name: **Washing Soda**; Formula: **$Na_2CO_3 \\cdot 10H_2O$**\n(c) **Calcium Oxychloride:** Common Name: **Bleaching Powder**; Formula: **$CaOCl_2$**\n(d) **Calcium Sulphate Hemihydrate:** Common Name: **Plaster of Paris (POP)**; Formula: **$CaSO_4 \\cdot \\frac{1}{2}H_2O$**"
+          },
+          {
+            "qno": 12,
+            "question": "State the reaction conditions and uses of Plaster of Paris and Bleaching Powder.",
+            "answer": "* **Plaster of Paris (POP) - $CaSO_4 \\cdot \\frac{1}{2}H_2O$**\n  * **Condition:** Prepared by heating Gypsum ($CaSO_4 \\cdot 2H_2O$) at **373 K ($100 \\text{°}C$)**.\n  * **Uses:** Used by doctors for setting fractured bones, making statues and decorative materials, and for fire-proofing material.\n* **Bleaching Powder - $CaOCl_2$**\n  * **Condition:** Produced by the action of chlorine gas on **dry slaked lime** ($Ca(OH)_2$).\n  * **Uses:** Used for bleaching cotton and linen in the textile industry, as an oxidising agent in chemical industries, and for disinfecting drinking water."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": "10",
+    "subject": "Science - Chemistry",
+    "chapter": "Chapter 3: Metals and Non-metals",
+    "exercises": [
+      {
+        "exercise": "In-text Questions (Page 40)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Give an example of a metal which\n(i) is a liquid at room temperature.\n(ii) can be easily cut with a knife.\n(iii) is the best conductor of heat.\n(iv) is a poor conductor of heat.",
+            "answer": "(i) **Mercury** ($Hg$)\n(ii) **Sodium** ($Na$) or **Potassium** ($K$) or **Lithium** ($Li$)\n(iii) **Silver** ($Ag$)\n(iv) **Lead** ($Pb$) or **Mercury** ($Hg$)"
+          },
+          {
+            "qno": 2,
+            "question": "Explain the meanings of malleable and ductile.",
+            "answer": "* **Malleable:** A substance is said to be malleable if it can be **hammered into thin sheets** (e.g., gold, silver).\n* **Ductile:** A substance is said to be ductile if it can be **drawn into thin wires** (e.g., gold, copper)."
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 46)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Why is sodium kept immersed in kerosene oil?",
+            "answer": "Sodium ($Na$) is a **highly reactive metal** and reacts vigorously with oxygen (air) and moisture (water) present in the atmosphere, often catching fire. Kerosene oil is unreactive with sodium and cuts off its contact with air and moisture, thereby preventing this reaction."
+          },
+          {
+            "qno": 2,
+            "question": "Write equations for the reactions of\n(i) iron with steam.\n(ii) calcium and potassium with water.",
+            "answer": "(i) Iron with steam (Note: Iron does not react with cold or hot water, only steam):\n$3Fe (s) + 4H_2O (g) \\rightarrow Fe_3O_4 (s) + 4H_2 (g)$\n(ii) Calcium with water:\n$Ca (s) + 2H_2O (l) \\rightarrow Ca(OH)_2 (aq) + H_2 (g) + \\text{Heat}$ (The released Hydrogen gas sticks to the surface of Calcium, making it float)\n(iii) Potassium with water (highly exothermic):\n$2K (s) + 2H_2O (l) \\rightarrow 2KOH (aq) + H_2 (g) + \\text{Heat}$ (The heat produced is enough to ignite the Hydrogen gas)"
+          },
+          {
+            "qno": 3,
+            "question": "Samples of four metals A, B, C and D were taken and added to the following solutions one by one. The results obtained are tabulated below:\n| Metal | Iron (II) sulphate Solution | Copper (II) sulphate Solution | Zinc sulphate Solution | Silver nitrate Solution |\n| :---: | :---: | :---: | :---: | :---: |\n| A | No reaction | Displacement | No reaction | Displacement |\n| B | Displacement | - | - | - |\n| C | No reaction | No reaction | No reaction | Displacement |\n| D | No reaction | No reaction | No reaction | No reaction |\nUse the table above to answer the following questions about metals A, B, C and D.\n(i) Which is the most reactive metal?\n(ii) What would you observe if B is added to a solution of Aluminium sulphate?\n(iii) Arrange the metals A, B, C and D in the order of decreasing reactivity.",
+            "answer": "(i) **Most Reactive Metal:** **B** (It displaces Iron, which is high in the reactivity series).\n(ii) **Observation if B is added to Aluminium sulphate:** **No reaction** would be observed. If B displaces Iron ($Fe$), its reactivity is less than Aluminium ($Al$). A less reactive metal cannot displace a more reactive metal.\n(iii) **Decreasing Reactivity:** The order is determined by which metal displaces which salt: B > A > C > D. (B displaces Fe, A displaces Cu but not Fe, C displaces Ag but not Cu, D is unreactive).\n**Order: B > A > C > D**"
+          },
+          {
+            "qno": 4,
+            "question": "What would you observe when zinc is added to a solution of iron(II) sulphate? Write the chemical reaction that takes place.",
+            "answer": "Zinc ($Zn$), being **more reactive** than Iron ($Fe$), will displace iron from the iron(II) sulphate ($FeSO_4$) solution.\n**Observation:** The green colour of the Iron (II) sulphate solution will **fade** and turn **colourless** (due to the formation of Zinc Sulphate). A grey-black deposit of iron metal will form on the surface of the zinc.\n**Reaction:** $Zn (s) + FeSO_4 (aq) \\rightarrow ZnSO_4 (aq) + Fe (s)$"
+          },
+          {
+            "qno": 5,
+            "question": "State the types of oxides formed by metals and non-metals.",
+            "answer": "* **Metal Oxides:** Generally **basic oxides** (e.g., $Na_2O$, $MgO$). Some metal oxides (like $Al_2O_3$, $ZnO$) are **amphoteric** (react with both acids and bases).\n* **Non-metal Oxides:** Generally **acidic oxides** (e.g., $SO_2$, $CO_2$). Some non-metal oxides (like $CO$, $N_2O$) are **neutral**."
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 49)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Write electron-dot structures for sodium, oxygen and magnesium.",
+            "answer": "The electron-dot structure shows only the **valence electrons**:\n* **Sodium ($Na$):** $Na\\cdot$\n* **Oxygen ($O$):** $\\cdot\\ddot{O}:$\n* **Magnesium ($Mg$):** $\\cdot Mg\\cdot$"
+          },
+          {
+            "qno": 2,
+            "question": "Show the formation of $Na_2O$ and $MgO$ by the transfer of electrons. What are the ions present in these compounds?",
+            "answer": "**Formation of $Na_2O$:** Two $Na$ atoms each lose 1 electron to achieve a stable octet, and one $O$ atom gains the 2 electrons to achieve an octet.\n$2Na \\cdot + \\cdot\\ddot{O}: \\rightarrow [Na]^+ [\\ddot{\\mathbf{:O}:}]^{2-} [Na]^+$ (Ionic bond)\n**Formation of $MgO$:** One $Mg$ atom loses 2 electrons, and one $O$ atom gains 2 electrons.\n$\\cdot Mg \\cdot + \\cdot\\ddot{O}: \\rightarrow [Mg]^{2+} [\\ddot{\\mathbf{:O}:}]^{2-}$ (Ionic bond)\n**Ions present:**\n* **$Na_2O$:** $Na^+$ (Sodium ions) and $O^{2-}$ (Oxide ions)\n* **$MgO$:** $Mg^{2+}$ (Magnesium ions) and $O^{2-}$ (Oxide ions)\n"
+          },
+          {
+            "qno": 3,
+            "question": "Why do ionic compounds have high melting points?",
+            "answer": "Ionic compounds are formed by the transfer of electrons, creating strong **electrostatic forces of attraction** between the positively charged ions (cations) and negatively charged ions (anions). A large amount of **heat energy** is required to overcome these strong inter-ionic forces, hence they have high melting points."
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 53)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Define the following terms.\n(i) Mineral\n(ii) Ore\n(iii) Gangue",
+            "answer": "(i) **Mineral:** A naturally occurring substance (element or compound) found in the Earth's crust.\n(ii) **Ore:** A mineral from which a metal can be **profitably** and **easily** extracted (e.g., Bauxite is an ore of Aluminium).\n(iii) **Gangue:** Impurities (like rock, sand, or earthly materials) associated with the ore, which are removed before extraction of the metal."
+          }
+        ]
+      },
+      {
+        "exercise": "Chapter End Questions (Page 57-58)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Which of the following pairs will give displacement reactions?\n(a) $NaCl$ solution and Copper metal\t(b) $MgCl_2$ solution and Aluminium metal\n(c) $FeSO_4$ solution and Silver metal\t(d) $AgNO_3$ solution and Copper metal",
+            "answer": "The correct answer is **(d) $AgNO_3$ solution and Copper metal**. Copper is more reactive than Silver, so it will displace silver from $AgNO_3$ solution: $Cu (s) + 2AgNO_3 (aq) \\rightarrow Cu(NO_3)_2 (aq) + 2Ag (s)$."
+          },
+          {
+            "qno": 2,
+            "question": "An element reacts with oxygen to give a compound with a high melting point. This compound is also soluble in water. The element is likely to be:\n(a) Calcium\t(b) Carbon\t(c) Silicon\t(d) Iron",
+            "answer": "The correct answer is **(a) Calcium**. The compound must be an **ionic oxide** with a high melting point, and its oxide ($CaO$) is soluble in water (to form $Ca(OH)_2$). This points to an active metal like Calcium."
+          },
+          {
+            "qno": 3,
+            "question": "Food cans are coated with tin and not with zinc because:\n(a) Zinc is costlier than tin.\t(b) Zinc has a higher melting point than tin.\n(c) Zinc is more reactive than tin.\t(d) Zinc is less reactive than tin.",
+            "answer": "The correct answer is **(c) Zinc is more reactive than tin**. If zinc were used, it would react with the acids present in the food (being more reactive), making the food poisonous. Tin is less reactive and thus safe for food storage."
+          },
+          {
+            "qno": 4,
+            "question": "You are given a hammer, a battery, a bulb, wires, and a switch.\n(a) How can you use them to distinguish between samples of metals and non-metals?\n(b) Assess the usefulness of these tests in distinguishing between metals and non-metals.",
+            "answer": "(a) **Distinguishing Tests:**\n  1. **Malleability (Hammer Test):** Hit the sample with the hammer. **Metals** will be hammered into thin sheets (malleable), while **non-metals** will break into pieces (brittle).\n  2. **Conductivity (Circuit Test):** Complete the circuit using the sample between the two free ends of the wire. If the **bulb glows**, the sample is a **metal** (conductor). If it does not glow, the sample is a **non-metal** (insulator, except graphite).\n(b) **Usefulness Assessment:** These tests are highly useful as malleability and electrical conductivity are two of the **defining physical properties** of metals and non-metals. They provide a quick and distinct way to classify the samples."
+          },
+          {
+            "qno": 5,
+            "question": "What are amphoteric oxides? Give two examples of amphoteric oxides.",
+            "answer": "**Amphoteric oxides** are metal oxides that show **both acidic and basic behaviour**. They react with both acids and bases to produce salt and water.\n**Examples:** **Aluminium Oxide** ($Al_2O_3$) and **Zinc Oxide** ($ZnO$).\n$Al_2O_3 (s) + 6HCl (aq) \\rightarrow 2AlCl_3 (aq) + 3H_2O (l)$ (Reacts as a base)\n$Al_2O_3 (s) + 2NaOH (aq) \\rightarrow 2NaAlO_2 (aq) + H_2O (l)$ (Reacts as an acid)"
+          },
+          {
+            "qno": 6,
+            "question": "Name two metals which will displace hydrogen from dilute acids, and two metals which will not.",
+            "answer": "* **Metals that will displace $H_2$ (More reactive than $H$):** **Zinc** ($Zn$), **Magnesium** ($Mg$)\n* **Metals that will not displace $H_2$ (Less reactive than $H$):** **Copper** ($Cu$), **Silver** ($Ag$)"
+          },
+          {
+            "qno": 7,
+            "question": "In the electrolytic refining of a metal ‘M’, what would you take as the anode, the cathode, and the electrolyte?",
+            "answer": "* **Anode:** Impure metal **M** (to be refined)\n* **Cathode:** Pure metal **M** (a thin strip)\n* **Electrolyte:** A solution of a salt of metal **M** (e.g., if M is Copper, use $CuSO_4$ solution)"
+          },
+          {
+            "qno": 8,
+            "question": "Pratyush took sulphur powder on a spatula and heated it. He collected the gas evolved by inverting a test tube over the burning sulphur. (a) What will be the action of gas on:\n(i) dry litmus paper?\t(ii) moist litmus paper?\n(b) Write a balanced chemical equation for the reaction taking place.",
+            "answer": "(a) The gas evolved is **Sulphur dioxide** ($SO_2$), a non-metal oxide.\n  (i) **Dry litmus paper:** **No action** (no change in colour). $SO_2$ requires water to form an acid.\n  (ii) **Moist litmus paper:** The blue litmus paper will turn **red**. $SO_2$ reacts with the water (moisture) to form Sulphurous acid ($H_2SO_3$).\n(b) **Balanced Chemical Equation:**\n  1. Burning Sulphur: $S (s) + O_2 (g) \\rightarrow SO_2 (g)$\n  2. $SO_2$ with water: $SO_2 (g) + H_2O (l) \\rightarrow H_2SO_3 (aq)$ (Sulphurous acid)"
+          },
+          {
+            "qno": 9,
+            "question": "State three reasons for copper being used to make hot water tanks, and not steel (an alloy of iron).",
+            "answer": "Copper is used instead of steel (iron alloy) for hot water tanks because:\n1. **High Reactivity of Iron:** Iron (in steel) **reacts with water/steam** to a large extent (rusting), especially at high temperatures, leading to corrosion.\n2. **Low Reactivity of Copper:** Copper **does not react with cold water, hot water, or steam** (even when left for a long time), making it highly resistant to corrosion in the tank.\n3. **Superior Heat Conduction:** Copper is a much **better conductor of heat** than steel, allowing for more efficient heating of the water."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "class": "10",
+    "subject": "Science - Chemistry",
+    "chapter": "Chapter 4: Carbon and Its Compounds",
+    "exercises": [
+      {
+        "exercise": "In-text Questions (Page 61)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "What would be the electron dot structure of carbon dioxide which has the formula $CO_2$?",
+            "answer": "Carbon has 4 valence electrons, and Oxygen has 6 valence electrons. Carbon forms two **double bonds** with the two Oxygen atoms. The structure is linear, and each atom achieves a stable octet.\n**Electron Dot Structure:** $\\ddot{O} = C = \\ddot{O}$ or **$: \\ddot{O} :: C :: \\ddot{O} :$**"
+          },
+          {
+            "qno": 2,
+            "question": "What would be the electron dot structure of a molecule of sulphur which is made up of eight atoms of sulphur?",
+            "answer": "A molecule of Sulphur ($S_8$) has a **puckered ring** structure (crown shape). Each Sulphur atom forms **two single covalent bonds** with two adjacent Sulphur atoms to complete its octet (Sulphur has 6 valence electrons). Each atom in the ring has two pairs of non-bonding electrons.\n"
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 68)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "How many structural isomers can you draw for pentane?",
+            "answer": "**Pentane** ($C_5H_{12}$) has **three** structural isomers:\n1. **n-pentane** (straight chain)\n2. **iso-pentane** (or 2-methylbutane)\n3. **neo-pentane** (or 2,2-dimethylpropane)"
+          },
+          {
+            "qno": 2,
+            "question": "What are the two properties of carbon which lead to the huge number of carbon compounds we see around us?",
+            "answer": "1. **Catenation:** The unique ability of Carbon atoms to form bonds with other Carbon atoms to form long chains, branched chains, and rings. This self-linking property is responsible for a huge variety of compounds.\n2. **Tetravalency:** Carbon has a valency of four, meaning it can form bonds with **four** other atoms (Carbon or other elements like H, O, N, S, Halogens). This allows for a vast combination of compounds."
+          },
+          {
+            "qno": 3,
+            "question": "What is a homologous series? Explain with an example.",
+            "answer": "A **homologous series** is a series of compounds in which the successive members differ by a **$-CH_2$ unit** and have the **same functional group**. They share the same general formula, have similar chemical properties, and show a gradual change in physical properties.\n**Example (Alkanes):** Methane ($CH_4$), Ethane ($C_2H_6$), Propane ($C_3H_8$). The general formula is $C_nH_{2n+2}$."
+          }
+        ]
+      },
+      {
+        "exercise": "In-text Questions (Page 71)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Draw the structures for the following compounds:\n(i) Ethanoic acid\n(ii) Bromopentane (Draw any one isomer)\n(iii) Butanone\n(iv) Hexanal",
+            "answer": "*(The structures are difficult to represent accurately in text. The following shows the condensed formula for the structure:)*\n(i) **Ethanoic acid** ($CH_3COOH$): $CH_3 - C (=O) - OH$\n(ii) **1-Bromopentane** (one isomer): $CH_3 - CH_2 - CH_2 - CH_2 - CH_2 - Br$\n(iii) **Butanone** ($C_4H_8O$): $CH_3 - C (=O) - CH_2 - CH_3$\n(iv) **Hexanal** ($C_6H_{12}O$): $CH_3 - CH_2 - CH_2 - CH_2 - CH_2 - CHO$"
+          },
+          {
+            "qno": 2,
+            "question": "How would you name the following compounds?\n(i) $CH_3 - CH_2 - Br$\n(ii) $H - C (=O) - H$\n(iii) $CH_3 - CH_2 - CH_2 - CH_2 - CH_2 - C \\equiv CH$",
+            "answer": "(i) $CH_3CH_2Br$: **Bromoethane**\n(ii) $HCHO$: **Methanal**\n(iii) $CH_3(CH_2)_4C \\equiv CH$: **Heptyne**"
+          }
+        ]
+      },
+      {
+        "exercise": "Chapter End Questions (Page 77-78)",
+        "questions": [
+          {
+            "qno": 1,
+            "question": "Ethane, with the molecular formula $C_2H_6$ has:\n(a) 6 covalent bonds\t(b) 7 covalent bonds\t(c) 8 covalent bonds\t(d) 9 covalent bonds",
+            "answer": "The correct answer is **(b) 7 covalent bonds**. Ethane has 1 C-C bond and 6 C-H bonds ($3$ on each Carbon). Total bonds: $1 + 6 = 7$."
+          },
+          {
+            "qno": 2,
+            "question": "Butanone is a four-carbon compound with the functional group:\n(a) Carboxylic acid\t(b) Aldehyde\t(c) Ketone\t(d) Alcohol",
+            "answer": "The correct answer is **(c) Ketone**. The suffix 'anone' indicates the Ketone functional group ($-C(=O)-$)."
+          },
+          {
+            "qno": 3,
+            "question": "While cooking, if the bottom of the vessel is getting blackened on the outside, it means that:\n(a) The food is not cooked completely.\n(b) The fuel is not burning completely.\n(c) The fuel is wet.\n(d) The fuel is burning completely.",
+            "answer": "The correct answer is **(b) The fuel is not burning completely**. The blackening is due to the presence of unburnt carbon particles (soot), which happens during incomplete combustion when the oxygen supply is insufficient."
+          },
+          {
+            "qno": 4,
+            "question": "Explain the nature of the covalent bond using the bond formation in $CH_3Cl$.",
+            "answer": "The **covalent bond** is formed by the **sharing of electrons** between atoms to achieve a stable noble gas configuration. In $CH_3Cl$ (Chloromethane):\n* **Carbon** shares its 4 valence electrons with **three Hydrogen atoms** (1 electron each) and **one Chlorine atom** (1 electron).\n* **Hydrogen** atoms complete their duets (2 electrons).\n* **Carbon and Chlorine** atoms complete their octets (8 electrons). The resulting $C-H$ and $C-Cl$ bonds are covalent bonds formed by the mutual sharing of one pair of electrons between the bonding atoms."
+          },
+          {
+            "qno": 5,
+            "question": "Draw the electron dot structures for:\n(i) Ethanoic acid\t(ii) $H_2S$\t(iii) Propanone\t(iv) $F_2$",
+            "answer": "*(Structures are challenging to render accurately in text, focusing on the principle:)*\n(i) **Ethanoic acid** ($CH_3COOH$): $C-C$ bond, $3 \times C-H$ single bonds, $C=O$ double bond, $C-O$ single bond, $O-H$ single bond.\n(ii) **$H_2S$** (Hydrogen Sulphide): $S$ (6 valence e-) shares 1 electron with each of the two $H$ atoms, forming two $S-H$ single bonds. **$: \\ddot{S} :$** with two $H$ atoms attached to the unbonded side.\n(iii) **Propanone** ($CH_3COCH_3$): $C-C-C$ chain, middle $C$ forms a $C=O$ double bond, other bonds are $C-H$ single bonds.\n(iv) **$F_2$** (Fluorine): Two $F$ atoms each share 1 electron to form a single covalent bond ($F-F$) to complete their octets. **$: \\ddot{F} : \\ddot{F} :$**"
+          },
+          {
+            "qno": 6,
+            "question": "What is a homologous series? Point out any two characteristics of a homologous series.",
+            "answer": "A **homologous series** is a family of organic compounds that follow a regular pattern in which the successive members differ from each other by a single **$-CH_2$ unit** and possess the **same functional group**.\n**Characteristics:**\n1. **Fixed difference:** Any two adjacent members differ by $-CH_2$ unit and a mass of **14 u**.\n2. **Similar chemical properties:** They have the same functional group, so they have similar methods of preparation and chemical properties."
+          },
+          {
+            "qno": 7,
+            "question": "What happens when ethanol is heated with excess concentrated Sulphuric acid at 443 K? Write the chemical equation for the reaction.",
+            "answer": "When ethanol is heated with excess concentrated Sulphuric acid at **443 K ($170 \\text{°}C$)**, it undergoes a **dehydration reaction** (removal of a water molecule). Concentrated $H_2SO_4$ acts as a dehydrating agent, resulting in the formation of an **unsaturated hydrocarbon, ethene**.\n**Reaction:** $CH_3CH_2OH \\xrightarrow{\\text{Conc. } H_2SO_4, 443 K} CH_2 = CH_2 + H_2O$"
+          },
+          {
+            "qno": 8,
+            "question": "How would you distinguish experimentally between an alcohol and a carboxylic acid?",
+            "answer": "The most common test is the **Sodium Hydrogen Carbonate (Baking Soda) Test**:\n| Test | Alcohol (e.g., Ethanol) | Carboxylic Acid (e.g., Ethanoic Acid) |\n| :--- | :--- | :--- |\n| **Baking Soda Test** | No reaction, no effervescence. | **Brisk effervescence** (bubbles) of **Carbon dioxide** gas is produced. |\n| **Chemical Reaction** | $CH_3CH_2OH + NaHCO_3 \\rightarrow$ No Reaction | $CH_3COOH + NaHCO_3 \\rightarrow CH_3COONa + H_2O + CO_2$ |\n*A Carboxylic acid reacts with Sodium Hydrocarbonate/Carbonate because it is an acid, while alcohol does not.*"
+          },
+          {
+            "qno": 9,
+            "question": "What are the oxidising agents?",
+            "answer": "An **oxidising agent** (or oxidant) is a substance that either:\n1. **Gives oxygen** for oxidation.\n2. **Removes hydrogen** for oxidation.\n3. **Accepts electrons** (is itself reduced).\n**Examples:** Alkaline $KMnO_4$ (Potassium Permanganate) and Acidified $K_2Cr_2O_7$ (Potassium Dichromate) are common oxidising agents used to convert alcohols to carboxylic acids."
+          },
+          {
+            "qno": 10,
+            "question": "Would you be able to check if water is hard by using a detergent? Why?",
+            "answer": "No, you would **not be able to check** if water is hard by using a detergent. **Detergents** are designed to work effectively even in hard water, meaning they do not form an insoluble scum with the Calcium ($Ca^{2+}$) and Magnesium ($Mg^{2+}$) ions present in hard water. Therefore, the detergent will foam readily in both hard and soft water, making it an ineffective test for water hardness. **Soap** is used to check water hardness because it forms a scum."
+          }
+        ]
+      }
+    ]
+  }
+]
